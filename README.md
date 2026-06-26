@@ -8,9 +8,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChandrakantaMandal/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ChandrakantaMandal/Leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ChandrakantaMandal/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/ChandrakantaMandal/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
